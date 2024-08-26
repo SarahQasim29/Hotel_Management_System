@@ -1,6 +1,7 @@
 **Hotel Management System**
 
 **Introduction**
+
 The Hotel Management System automates hotel operations, including reservations, check-ins/outs, room management, and billing. It enhances efficiency by allowing real-time access to room availability and guest information, reducing manual effort for hotel staff.
 
 **OOP Concepts**
@@ -17,10 +18,12 @@ The Hotel Management System automates hotel operations, including reservations, 
 5. Security: User authentication and access control for data protection.
    
 **Technologies Used**
+
 Java: Core language used for implementing logic and OOP concepts.
 SQL: Database for storing hotel data, including reservations, guest information, and billing records.
 
 **Interfaces**
+
 ![image](https://github.com/user-attachments/assets/f2fcb6ff-df58-4a90-a46a-85029591950b)
 ![image](https://github.com/user-attachments/assets/7df14547-5fa8-435c-85d2-37b21de121f8)
 ![image](https://github.com/user-attachments/assets/7889ceb6-efc9-4d22-b5ad-f70a645c1345)
@@ -30,6 +33,7 @@ SQL: Database for storing hotel data, including reservations, guest information,
 ![image](https://github.com/user-attachments/assets/933564e4-6a45-422f-890e-257c8e7d4d3a)
 
 **Conclusion**
+
 The Hotel Management System simplifies hotel operations, enhances efficiency, and reduces manual tasks by automating room management, reservations, and billing. With a focus on OOP principles and secure data handling, it ensures reliable and user-friendly operations for both staff and guests.
 
 
